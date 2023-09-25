@@ -1,4 +1,27 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Steps to build this app
+```bash
+npx create-next-app@latest <app_name>
+typescript - no
+ESLint - yes
+TailwindCSS - yes
+src dir - no
+app Router - yes
+import alias - no
+
+Might not need this if  you approve Tailwind CSS above
+npm instal -D tailwindcss
+npx tailwindcss init
+
+Open LocalHost3000
+npm run dev
+
+npm i react-icons
+
+```
+
+remove all from index.js
+
 
 ## Getting Started
 
